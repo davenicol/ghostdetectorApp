@@ -1,0 +1,7 @@
+0-hello
+1-I
+2-love
+3-cheese
+4-Henry
+5-dead
+6-Goodbye

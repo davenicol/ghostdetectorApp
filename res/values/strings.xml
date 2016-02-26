@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GhostDetector</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="lon">55</string> 
+    <string name="lat">-3.02123</string>
+    <string name="mapLocation">Here</string>
+    <string name="mapSnipper">hello there</string>
+    <string name="Magnetic_Fields">Magnetic Field</string>
+    <string name="Movement">Movement Detector</string>
+    <string name="Talk">Talk to Ghosts</string>
+    <string name="Map">Maps</string>
+    <string name="Speak">Speak</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="location">Location</string>
+    <string name="details">Details</string>
+    <string name="detailstomap">Add Details to Map</string>
+    <string name="skip">Skip Entry</string>
+    <string name="about">About/Issues</string>
+    <string name="shake">Increase or decrease device sensitivity</string>
+    <string name="upsense">+</string>
+    <string name="downsense">-</string>
+    <string name="aboutanddetails">Welcome to GhostDetector alpha v0.1\n
+---------------------------------- \n
+ABOUT AND ISSUES                   \n
+---------------------------------- \n
+\n
+Magnetic Field Detector\n
+-----------------------\n
+Paranormal Inversigators theorise that\n
+spirits may procude larger than background\n
+magnetic fields (MF). Normal background MF\n
+is usually between 10uT to 70uT. Spikes \n
+may be caused by any device that produces\n
+large MFs like magnets, washing machines\n
+or simply spikes in the Earths MF.\n\n
+If the MF detector spikes to over 170uT\n
+without explanation, this may be caused\n
+by local spirit activity\n
+It is recommended to put your device on\n
+Airplane mode to reduce MF interference\n\n
+Static Motion Detector\n
+-----------------------\n
+The Motion detector is set to alert you\n
+if the device is moved at all.\n
+Place the device on a steady surface and\n
+press the Motion Detector button to start\n
+This can be useful to place know to have\n
+spirit activity where objects are being\n
+shaken or moved\n\n
+Known Issues and To Come:\n
+Sensor at time of writing only changes\n
+screen colour. This will be updated to ommit\n
+a high pitched tone. Motion Detector starts\n
+as soon as button pressed. This will be\n
+updated to include a timer to allow user\n
+to move away without setting off device.\n\n
+Ghost Talk\n
+-----------------------\n
+To see if any spirits have the ability\n
+to manipulate speech, GhostTalk is available\n
+for communication. Simply call the spirit\n
+and ask a question. Then push the Speak\n
+button. The system will then randomly\n
+pull text and feed back. User interpritation\n
+is required.\n\n
+Know Issues and To Come:\n
+Words are limited to 830 common words with\n
+no names. They also feed from a string array\n
+inside the class. Updates will include\n
+words input from a Dictionary or Database\n
+and list will be updated to the class. Preferebly\n
+this should pull from the userDictionary.\n
+I have considered putting in an algorithm\n
+to produce sentances properly, but this \n
+is probably not required.\n\n
+Maps\n
+-----------------------\n
+You can also go to maps and input details\n
+about your find in a specific location\n
+for future reference\n\n
+Know issues and To Come:\n
+Unable to save details at this time\n
+Unable to find location so this has to\n
+be done manually by Latitude and Longitiude.\n
+Validation has not been done for Lat and Lon!!!\n
+The system will probably crash if a string in input.\n 
+Preferebly a long click on the\n
+map would give the user the ability\n
+to insert the details and save to a DB.</string>
+</resources>
